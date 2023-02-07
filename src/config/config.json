@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "positive-design-377115",
+  "private_key_id": "3520002d42bc62d12262068f0ee6b2eb9e447c35",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCxFUo1iIEqEwha\n2mlhmoBpWFBDMppgA3uVcw+XO8Wx1nu/4MKCXgeApF09OkcZiRDXL8xzt2JEM0R/\nzfplE0MnNehEJ2QCZKvcCNIdAM15mVEBPFT7Je34p1opbC4ACiVdO5NOzibpdgnc\n52dHE/NsR9h7x65KueqdZXzhU1AJ07+3oAMCqwL4DE2IsFyyWzxKVBT0xrwW/diq\n6cgr2AVmiE7OnfRcmDPxSQRwap6pSg0QSNFfHY4qKYS8OqdSurKjWKr1eXjMSl0m\np0UNPDuClyonnY5oObaJEyRMe1Rl0xJbnSBDtuylxeiLIhVeK3ytXpoSwc2X0ERy\ntSCb2G5HAgMBAAECgf9n3U/4PaJJ0EJ4uLZRxE0+aQRb73mwOZXM14icP18XtN0v\nX0K3DQ1ZenDnAoKxY9ry+bO2ek93ia4tlvGVklRHIX6kBMVo8LbwWBS92n+Wq5F1\nKBVNr7aCIc3UB8bzUrFcm218pAtpz/mC0yOZAy5hQK70OdvZWwtU95RHqOTTBSsI\nEujNrXbr8XzPxrZKLaaZ163A2dYrmSKLWQ11Zq6bKH+mmtV6UH8YjKIhCk2Owhjk\nHJJaT+hK07rJ3xFY2QWF0nHKYEroAOoS2qFgYK1Ixjjfg4g0daT3vWCee7xt9oLz\n238LSmXbtXf2Shcuco+WEgmKqj2nUHyFpyD3NwECgYEA10uXKBfJy7QuWETo3u/p\nFsS94iWohguCeKDuqr/e/SHlobU7kVRYZRuLSCeJTgh3CGChgUc5elYYgWTH8dGE\ntixgvdYned2z/yL2LC114ZzlA96b5TwhfZqghwMVRVeQWRxjmYH7rltBlXavmJdc\nTVkh/ZiOzS7lQJYfJ66qHtMCgYEA0pA2VTmd36+hdQbe3FXpVHSdVAXSUfFt3wJW\njmhQZihRUTpjZYOrIWn9rC1fAS7AuLGofbpRiRfMQRyWXSHhKTXK3guPflHBKjXs\nOYfC2a/P1+99TEZWpKl3AnIHjTys7CUnL/lO0VDkbEvxFhJ7bW98/anJ7gfXGrKk\nu0gi0j0CgYEAnWia/6lE1TbLm6XmTPlDhm4aFrpJ2JeZsPCZDyZxtsmNxwlmn/73\nEhVtZDfj37W4sdtUudyFXbiM+i3hMiBp03fm02U8P5GlBKlfKzWhtm6r0oRznsq0\nAc2ICK5sYuJ+m2hyOc4bYYM/FDROdlZUGglNHMjpv4LGAs6/wJenshkCgYEAsekj\n31K1cCDnnQfXGfiFE9UMccgRcyc5HGrPU7gT5p0+SBG7ljRwTeVOb0JOuaMVN3j0\n0naxGdK/xGwxKDPOGZHX/VFrRuIxAkdZdyqcmm4QgXVbOy1bW/nMEobilpWjzkt+\nFuzhib59ontwEqQ/IbJHu9TQR4zcVTSIN621rkkCgYAD+h9hahe769xXVV9Kre15\nEh2U9HmjGcyyCLW7SHnY00QzEC/RdWJhf08/Rx+g8NoiCDx3XCxIICywByGCfuEU\nxWm5nMlQLaaQFw/MonxpgaBIwOWaZFLo6NeaUTU0ZKAjLT+cfcMX0TzzSTZsH7EE\nE9duGTKcxPDdeFoO0CGPwA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "google-drive@positive-design-377115.iam.gserviceaccount.com",
+  "client_id": "100655364098757850544",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/google-drive%40positive-design-377115.iam.gserviceaccount.com"
+}
