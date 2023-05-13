@@ -1,12 +1,10 @@
-import logo from "./logo.svg";
 import "./App.css";
-import Main from "./components/Main/Main";
-import { Nav, Titulo } from "./components/Main/style";
+import { Main } from "./views/Main";
 
 function App() {
   return (
     <div>
-      <Main></Main>
+      <Main />
     </div>
   );
 }
