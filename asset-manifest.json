@@ -1,19 +1,20 @@
 {
   "files": {
     "main.css": "/portfolio-drive/static/css/main.c595178f.css",
-    "main.js": "/portfolio-drive/static/js/main.77d6ad2b.js",
+    "main.js": "/portfolio-drive/static/js/main.699f6525.js",
     "static/js/787.7f3f7138.chunk.js": "/portfolio-drive/static/js/787.7f3f7138.chunk.js",
+    "static/media/mapa_mental.png": "/portfolio-drive/static/media/mapa_mental.eaf308b5e2416808e66a.png",
     "static/media/books.png": "/portfolio-drive/static/media/books.4e176398d5b001cfcb09.png",
     "static/media/github.png": "/portfolio-drive/static/media/github.44eee0c4a6c25b0d7347.png",
     "static/media/trello.png": "/portfolio-drive/static/media/trello.d0dbacbe39a320d82df3.png",
     "static/media/pagina-da-internet.png": "/portfolio-drive/static/media/pagina-da-internet.798a886d0fe7670118ac.png",
     "index.html": "/portfolio-drive/index.html",
     "main.c595178f.css.map": "/portfolio-drive/static/css/main.c595178f.css.map",
-    "main.77d6ad2b.js.map": "/portfolio-drive/static/js/main.77d6ad2b.js.map",
+    "main.699f6525.js.map": "/portfolio-drive/static/js/main.699f6525.js.map",
     "787.7f3f7138.chunk.js.map": "/portfolio-drive/static/js/787.7f3f7138.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c595178f.css",
-    "static/js/main.77d6ad2b.js"
+    "static/js/main.699f6525.js"
   ]
 }
